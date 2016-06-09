@@ -29,7 +29,7 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:textColor="#121212"
-        android:backgroundTint="#faf778" />
+        android:backgroundTint="#87cefa" />
 
     <Button
         android:layout_width="wrap_content"
@@ -39,6 +39,6 @@
         android:layout_marginTop="34dp"
         android:layout_below="@+id/button1"
         android:layout_centerHorizontal="true"
-        android:backgroundTint="#faf778"
+        android:backgroundTint="#87cefa"
         android:elegantTextHeight="false" />
 </RelativeLayout>
